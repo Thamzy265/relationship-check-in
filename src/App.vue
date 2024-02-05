@@ -1,7 +1,7 @@
 <template>
   <div class="p-10">
     <span>Card: {{ counter.count }}/{{ cards.length }}</span>
-    <div class="overflow-hidden mt-2 rounded-lg bg-gray-100 py-2 shadow sm:p-6 mb-2 card-image">
+    <div class="overflow-hidden mt-2 rounded-lg bg-gray-100 py-2 shadow sm:p-6 mb-2">
       <div class="mt-3 mb-3">
         <h3 class="font-bold text-xl border-b border-gray-200 dark:border-gray-200 pb-2 pl-2">
           {{ currentCard.topic }}
