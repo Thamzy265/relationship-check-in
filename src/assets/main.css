@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-image {
+  background: url('./IMG-20240130-WA0025.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white !important;
+}
